@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "LR1", "LR1\LR1.ssmssqlproj", "{7F6BF852-E3D4-4435-AD61-31DEC81780D6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "LR2", "LR2\LR2.ssmssqlproj", "{1C28B53C-E4E9-4B20-AF62-EBED5039F7C7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "LR3", "LR3\LR3.ssmssqlproj", "{453A93AA-0893-426E-9A44-B3B39491F747}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "LR4", "LR4\LR4.ssmssqlproj", "{AC73DF73-F5BC-4B54-8489-796D5B6F41CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F6BF852-E3D4-4435-AD61-31DEC81780D6}.Default|Default.ActiveCfg = Default
+		{1C28B53C-E4E9-4B20-AF62-EBED5039F7C7}.Default|Default.ActiveCfg = Default
+		{453A93AA-0893-426E-9A44-B3B39491F747}.Default|Default.ActiveCfg = Default
+		{AC73DF73-F5BC-4B54-8489-796D5B6F41CF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F41DE0-4C50-4E62-89D1-E34054142158}
+	EndGlobalSection
+EndGlobal
